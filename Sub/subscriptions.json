@@ -3,6 +3,40 @@
   "lastUpdated": "2025-05-25T10:00:00Z",
   "subscriptions": [
     {
+      "id": "apple-music",
+      "name": "Apple Music",
+      "icon": "https://raw.githubusercontent.com/Dan8023/MarkbuySubscribe/refs/heads/main/Subscribe%20Icon/Apple%20Music.PNG",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 11,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人"
+        },
+        {
+          "price": 17,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "家庭"
+        }，
+		{
+          "price": 6,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "大学生"
+        }
+      ],
+      "website": "https://www.yuque.com",
+      "description": "语雀知识库和文档工具",
+      "tags": ["文档", "知识库", "协作", "笔记", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "1422452449"
+    },
+	{
       "id": "youtube-premium",
       "name": "YouTube Premium",
       "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/youtube.png",
