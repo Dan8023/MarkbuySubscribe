@@ -21,7 +21,7 @@
           "billingCycle": "monthly",
           "isPermanent": false,
           "description": "家庭"
-        }，
+        },
 		{
           "price": 6,
           "currency": "CNY",
